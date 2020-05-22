@@ -1,0 +1,11 @@
+*.[od]
+.DS_Store
+checker
+push_swap
+!checker/
+!push_swap/
+*.swp
+.vscode/
+*.DYSM/
+tags
+push_swap2
